@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "id": 66029,
+            "name": "Чёрный клевер: Меч короля магов",
+            "year": 2023,
+            "quality": "FHD (1080p)",
+            "genre": "Фэнтези, Комедия, Боевик",
+            "type": "Аниме-фильмы",
+            "country": "Япония",
+            "poster": "https://img.gettyimages.site/movies/franchise/6/6/0/2/9/0/0/0/0/0/610x900_66029.jpg",
+            "kinopoisk": null,
+            "imdb": "8.4"
+        },
+        {
+            "id": 66333,
+            "name": "Принцесса-шпионка: Укротитель короны 3",
+            "year": 2023,
+            "quality": "HD (720p)",
+            "genre": "Приключения, Драма",
+            "type": "Аниме-фильмы",
+            "country": "Япония",
+            "poster": "https://img.gettyimages.site/movies/franchise/6/6/3/3/3/0/0/0/0/0/610x900_66333.jpg",
+            "kinopoisk": null,
+            "imdb": null
+        }
+    ]
+}
