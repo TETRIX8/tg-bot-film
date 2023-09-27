@@ -8,7 +8,7 @@ inlinekeyboard.add(InlineKeyboardButton(text="🎞️ Подборки", callbac
 inlinekeyboard.add(InlineKeyboardButton(text="⭐ Мои закладки", callback_data="favorites"))
 inlinekeyboard.add(InlineKeyboardButton(text="💡 О боте", callback_data="about"),
 InlineKeyboardButton(text="💬 Контакты", callback_data="contacts"))
-inlinekeyboard.add(InlineKeyboardButton(text="🔄 Для просмотра через тг", url="https://t.me/Filmtests06_bot?start=997_1063015"))
+inlinekeyboard.add(InlineKeyboardButton(text="🔄 Смотреть через тг", url="https://t.me/OnWavee_bot?start=1404494933"))
 
 news_menu_kb = InlineKeyboardMarkup()
 news_menu_kb.add(InlineKeyboardButton(text="Фильмы", callback_data="news_films"), InlineKeyboardButton(text="Сериалы", callback_data="news_serials"))
