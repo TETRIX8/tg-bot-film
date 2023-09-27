@@ -1,0 +1,112 @@
+{
+    "data": [
+        {
+            "id": 65764,
+            "name": "Кстати",
+            "year": 2023,
+            "quality": "HD (720p)",
+            "genre": "Ток-шоу",
+            "type": "ТВ-Шоу",
+            "country": "Россия",
+            "poster": "https://img.gettyimages.site/movies/franchise/6/5/7/6/4/0/0/0/0/0/610x900_65764.jpg",
+            "imdb": null,
+            "kinopoisk": null
+        },
+        {
+            "id": 66156,
+            "name": "Автомобили мечты Дауни",
+            "year": 2023,
+            "quality": "HD (720p)",
+            "genre": "Документальный",
+            "type": "ТВ-Шоу",
+            "country": "США",
+            "poster": "https://img.gettyimages.site/movies/franchise/6/6/1/5/6/0/0/0/0/0/610x900_66156.jpg",
+            "imdb": null,
+            "kinopoisk": null
+        },
+        {
+            "id": 64748,
+            "name": "Шоу Воли",
+            "year": 2023,
+            "quality": "SD",
+            "genre": "Развлекательный",
+            "type": "ТВ-Шоу",
+            "country": "Россия",
+            "poster": "https://img.gettyimages.site/movies/franchise/6/4/7/4/8/0/0/0/0/0/610x900_64748.jpeg",
+            "imdb": null,
+            "kinopoisk": null
+        },
+        {
+            "id": 65869,
+            "name": "КликКлак шоу",
+            "year": 2023,
+            "quality": "HD (720p)",
+            "genre": "Реальное ТВ",
+            "type": "ТВ-Шоу",
+            "country": "Россия",
+            "poster": "https://img.gettyimages.site/movies/franchise/6/5/8/6/9/0/0/0/0/0/610x900_65869.jpeg",
+            "imdb": null,
+            "kinopoisk": null
+        },
+        {
+            "id": 65996,
+            "name": "Офисные игры",
+            "year": 2023,
+            "quality": "HD (720p)",
+            "genre": "Комедия",
+            "type": "ТВ-Шоу",
+            "country": "Россия",
+            "poster": "https://img.gettyimages.site/movies/franchise/6/5/9/9/6/0/0/0/0/0/610x900_65996.jpg",
+            "imdb": null,
+            "kinopoisk": null
+        },
+        {
+            "id": 66194,
+            "name": "Выжить в Дубае",
+            "year": 2023,
+            "quality": "SD",
+            "genre": "Реальное ТВ",
+            "type": "ТВ-Шоу",
+            "country": "Россия",
+            "poster": "https://img.gettyimages.site/movies/franchise/6/6/1/9/4/0/0/0/0/0/610x900_66194.jpg",
+            "imdb": null,
+            "kinopoisk": null
+        },
+        {
+            "id": 64052,
+            "name": "Вкусно с Ляйсан",
+            "year": 2023,
+            "quality": "FHD (1080p)",
+            "genre": "Развлекательный, Ток-шоу",
+            "type": "ТВ-Шоу",
+            "country": "Россия",
+            "poster": "https://img.gettyimages.site/movies/franchise/6/4/0/5/2/0/0/0/0/0/610x900_64052.jpg",
+            "imdb": null,
+            "kinopoisk": null
+        },
+        {
+            "id": 64149,
+            "name": "Умнее всех",
+            "year": 2023,
+            "quality": "SD",
+            "genre": "Семейный, Ток-шоу",
+            "type": "ТВ-Шоу",
+            "country": "Россия",
+            "poster": "https://img.gettyimages.site/movies/franchise/6/4/1/4/9/0/0/0/0/0/610x900_64149.jpeg",
+            "imdb": null,
+            "kinopoisk": null
+        },
+        {
+            "id": 65534,
+            "name": "Взрослым не понять",
+            "year": 2023,
+            "quality": "HD (720p)",
+            "genre": "Детский, Семейный",
+            "type": "ТВ-Шоу",
+            "country": "Россия",
+            "poster": "https://img.gettyimages.site/movies/franchise/6/5/5/3/4/0/0/0/0/0/610x900_65534.jpg",
+            "imdb": null,
+            "kinopoisk": null
+        }
+    ]
+}
